@@ -19,6 +19,6 @@ def find_the_cheese(ingredients)
       return cheese_types[i]
     else nil
     end
-  i += 1
+    i += 1
   end
 end
